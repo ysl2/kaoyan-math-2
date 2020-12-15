@@ -1,0 +1,47 @@
+{
+  "foam.logging.level": "info",
+  "editor.formatOnSave": true,
+  // "editor.formatOnType": true,
+  //
+  // 默认的图片路径：
+  // "markdown-image.local.path": "/assets/image",
+  // 数据结构与算法之美的图床路径：（学习结束后需要及时更换）
+  "markdown-image.local.path": "/articles/computer-science-basic/data-structure/the-beauty-of-data-structures-and-algorithms-geek-time/images",
+  //
+  "explorer.sortOrder":"type",
+  //
+  "editor.wrappingIndent": "indent",
+  "editor.overviewRulerBorder": false,
+  "editor.lineHeight": 24,
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync",
+  "git.confirmSync": false,
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  //
+  // 注："files.exclude"是"search.exclude"和"files.watcherExclude"的超集
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    // 下面这些是我自己定义的：
+    "**/.obsidian": true,
+    // "**/.trash": true,
+    // "**/assets": true,
+    // "**/entry": true,
+    // "**/.gitignore": true,
+    // "**/README.md": true,
+  },
+  //
+  //-----------------------------------------------
+  // 以下是我自己的插件设置，不是foam的设置
+  "md-graph.autoStart": false,
+  "md-graph.fileTypes": ["md"],
+  "md-graph.graph.defaultMode": "ALL",  // 可选项："ALL", "FOCUS"
+  "md-graph.graph.fadeDepth": 1,
+  "md-graph.graph.focusNeighborDepth": 1,
+  "md-graph.openColumn": "one",
+  "md-graph.showColumn": "beside",
+}

@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "6da115c03c466a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "475138236b40ee6b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3a9ef213b55d995",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8e1595c7b4e36a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4c8b4ea629e2d48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "12c3cc702611c6bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "port 22",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "965c42df25f702b6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95363a95e1e27351",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b1dccb12fa4f20d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4587156fcf9a30c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "32a9bc478fd4c8d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "018baecbc31d91c9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "946557700b0f5b33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff0c28af9d58e84d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "046b25c73a397f91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "466200b8b33f6c1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.9368591308594
+  },
+  "lastOpenFiles": [
+    "Find unlinked files plugin output.md",
+    "assets/image/20201118195747.png",
+    "assets/image/20201120171700.png",
+    "assets/image/20201120171849.png",
+    "assets/image/20201120172006.png",
+    "assets/image/20201120172055.png",
+    "assets/image/20201123163433.png",
+    "assets/image/20201123163448.png",
+    "assets/image/20201123163502.png",
+    "assets/image/QQMail_0.png"
+  ]
+}
